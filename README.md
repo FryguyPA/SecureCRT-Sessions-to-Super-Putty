@@ -6,9 +6,9 @@ The goal of this script is to convert a SecureCRT session export XML file to a S
 The reason I have written this is so that a peer that does not have a SecureCRT license can use<br>
 SuperPutty and just import my sessions.
 <br>
-To execute:
+To execute: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;python convert_sp.py <input_securecrt_sessions.xml>
-<br>
+<br><br>
 Jeff Fry <br>
 jeff@fryguy.net<br>
 https://fryguy.net<br>
